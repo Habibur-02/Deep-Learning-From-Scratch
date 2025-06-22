@@ -3,4 +3,4 @@ Please download it from here https://drive.google.com/drive/u/0/folders/1dZvL1gi
 
 ANN Data is provided inside ANN Folder.
 
-Here Softmax Function Plays important role.
+Here Softmax Function Played important role.
